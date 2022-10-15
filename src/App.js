@@ -6,7 +6,7 @@ export default function App() {
 	return (
 		<div className="App">
 			<div className="container">
-				Dictionary Project
+				<h1>Dictionary</h1>
 				<Dictionary />
 				<footer>
 					<a href="https://github.com/Rakta1/Dictionary-project">Open-Source</a>

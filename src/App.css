@@ -1,9 +1,10 @@
 .container {
 	text-align: center;
+	font-family: "Poppins", sans-serif;
 }
-
 footer {
 	margin: 30px 0;
+	font-size: 15px;
 }
 
 footer a {
