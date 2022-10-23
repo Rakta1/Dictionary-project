@@ -1,0 +1,12 @@
+.Phonetic a {
+	border: 1px solid #a6acec;
+	text-decoration: none;
+	padding: 8px 12px;
+	border-radius: 15px;
+	background-color: #a6acec;
+	color: #ace7ef;
+}
+
+.Phonetic .text {
+	margin-left: 10px;
+}

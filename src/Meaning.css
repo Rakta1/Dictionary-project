@@ -1,0 +1,10 @@
+.Meaning h3 {
+	font-size: 30px;
+	color: #a6acec;
+}
+
+.Meaning .example {
+	font-size: 13px;
+	opacity: 0.8;
+	color: #a6acec;
+}
