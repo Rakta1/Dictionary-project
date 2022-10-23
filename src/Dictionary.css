@@ -1,8 +1,22 @@
-.Dictionary {
-	margin: 5px 0;
+.Dictionary section {
+	background: white;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
+	border-radius: 15px;
+	padding: 15px;
+	margin: 15px 0;
+	background-color: #ace7ef;
+}
+
+.Dictionary input {
+	width: 75%;
+	padding: 5px;
+	border: 1px solid #a6acec;
+	border-radius: 10px;
 }
 
 h1 {
-	font-size: 64px;
+	font-size: 75px;
 	font-family: "Monoton", cursive;
+	color: #ace7ef;
+	margin-bottom: 20px;
 }
