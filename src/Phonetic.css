@@ -1,3 +1,7 @@
+.Phonetic {
+	margin: 20px 0;
+}
+
 .Phonetic a {
 	border: 1px solid #a6acec;
 	text-decoration: none;
@@ -7,6 +11,9 @@
 	color: #ace7ef;
 }
 
+.Phonetic a:hover {
+	background-color: #858fea;
+}
 .Phonetic .text {
 	margin-left: 10px;
 }
